@@ -17,8 +17,8 @@ the pinout used by avrdudes buspirate_bb mode is
 
 ![buspirate->attiny pinout (see above table)](attiny_bp_sketch.png)
 
-I recommend using a lab-dec since that makes it easy to keep track of all the connections
+I recommend using a breadboard since that makes it easy to keep track of all the connections
 ![don’t cry, it won’t help](easy.png)
 
-(yes having a stuffed animal next to your lab-dec helps. It might not be great for ESD but it makes for a great conversation partner when you can't figure out wha’ts wrong)
+(yes having a stuffed animal next to your breadboard helps. It might not be great for ESD but it makes for a great conversation partner when you can't figure out wha’ts wrong)
 
